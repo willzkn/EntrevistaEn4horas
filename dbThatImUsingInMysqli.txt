@@ -1,0 +1,14 @@
+CREATE DATABASE prueba;
+use prueba;
+CREATE TABLE usuarios (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(100) NOT NULL,
+    correo VARCHAR(100) NOT NULL UNIQUE,
+    clave VARCHAR(255) NOT NULL
+);
+For the english people:
+It's in spanish
+I know, ain't the proper way to do it, but i'm trying to understand how php works in 4 hours
+
+Para los que hablen español:
+HERMANO NO SE COMO HACER ESTO, Y MI ENTREVISTA ES EN 4 HORAS
