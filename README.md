@@ -16,3 +16,7 @@ login.php: para iniciar sesión.
 crud.php: gestión de usuarios (solo si estás logueado).
 logout.php: para cerrar sesión limpiamente.
 panel.php: página de bienvenida tras el login (si la usaste)
+
+
+
+Como se esperaba, no me contrataron JAJAJAJA.
